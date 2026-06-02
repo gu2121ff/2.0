@@ -94,7 +94,6 @@ strong {
 }
 
 .gallery-item {
-    background: linear-gradient(135deg, var(--vermelho), #a01829);
     border-radius: 8px;
     overflow: hidden;
     transition: 0.3s;
